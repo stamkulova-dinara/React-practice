@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-practice/static/css/main.f282439e.chunk.css",
+    "main.js": "/React-practice/static/js/main.5a640f1d.chunk.js",
+    "main.js.map": "/React-practice/static/js/main.5a640f1d.chunk.js.map",
+    "runtime-main.js": "/React-practice/static/js/runtime-main.b7ea9212.js",
+    "runtime-main.js.map": "/React-practice/static/js/runtime-main.b7ea9212.js.map",
+    "static/js/2.0a32fb50.chunk.js": "/React-practice/static/js/2.0a32fb50.chunk.js",
+    "static/js/2.0a32fb50.chunk.js.map": "/React-practice/static/js/2.0a32fb50.chunk.js.map",
+    "index.html": "/React-practice/index.html",
+    "static/css/main.f282439e.chunk.css.map": "/React-practice/static/css/main.f282439e.chunk.css.map",
+    "static/js/2.0a32fb50.chunk.js.LICENSE.txt": "/React-practice/static/js/2.0a32fb50.chunk.js.LICENSE.txt",
+    "static/media/1.dedfdea4.jpg": "/React-practice/static/media/1.dedfdea4.jpg",
+    "static/media/11.032a1ad7.jpg": "/React-practice/static/media/11.032a1ad7.jpg",
+    "static/media/13.84d8a8fc.jpg": "/React-practice/static/media/13.84d8a8fc.jpg",
+    "static/media/14.658a4203.jpg": "/React-practice/static/media/14.658a4203.jpg",
+    "static/media/2.9fc79688.jpg": "/React-practice/static/media/2.9fc79688.jpg",
+    "static/media/3.e0dac81a.jpg": "/React-practice/static/media/3.e0dac81a.jpg",
+    "static/media/4.85a226a4.jpg": "/React-practice/static/media/4.85a226a4.jpg",
+    "static/media/5.53a9fd38.jpg": "/React-practice/static/media/5.53a9fd38.jpg",
+    "static/media/6.6de7edfe.jpg": "/React-practice/static/media/6.6de7edfe.jpg",
+    "static/media/7.a6887c9d.jpg": "/React-practice/static/media/7.a6887c9d.jpg",
+    "static/media/8.4869712b.jpg": "/React-practice/static/media/8.4869712b.jpg",
+    "static/media/9.ae487c7d.jpg": "/React-practice/static/media/9.ae487c7d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ea9212.js",
+    "static/js/2.0a32fb50.chunk.js",
+    "static/css/main.f282439e.chunk.css",
+    "static/js/main.5a640f1d.chunk.js"
+  ]
+}
